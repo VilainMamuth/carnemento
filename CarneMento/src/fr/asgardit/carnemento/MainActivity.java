@@ -1,5 +1,6 @@
-package fr.asgartit.carnemento;
+package fr.asgardit.carnemento;
 
+import fr.asgardit.carnemento.R;
 import android.os.Bundle;
 import android.app.ListActivity;
 import android.view.Menu;
@@ -22,7 +23,7 @@ public class MainActivity extends ListActivity {
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
 		// Inflate the menu; this adds items to the action bar if it is present.
-		getMenuInflater().inflate(R.menu.activity_main, menu);
+		//getMenuInflater().inflate(R.menu.activity_main, menu);
 		return true;
 	}
 
