@@ -2,7 +2,6 @@
 <resources>
 
     <string name="app_name">CarneMento</string>
-    <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
     <string-array name="principes">
         <item>Ne critiquez pas, ne condamnez pas, ne vous plaignez pas.</item>
@@ -15,7 +14,7 @@
         <item>Sachez écouter. Encourager les autres à parler d\'eux mêmes.</item>
         <item>Parlez à votre interlocuteur de ce qui l\'intéresse.</item>
         <item>Faites sentir aux autres leur importance et faites-le sincèrement.</item>
-        
+
         <item>Éviter les controverses, seul moyen d\'en sortir vainqueur.</item>
         <item>Respecter les opinions de votre interlocuteur. ne lui dites jamais qu\'il a tord.</item>
         <item>Si vous avez tort, admettez-le promptement et énergiquement.</item>
@@ -28,7 +27,7 @@
         <item>Faites appel aux sentiments élevés.</item>
         <item>Démontrez spectaculairement vos idée. Frappez la vue et l\'imagination.</item>
         <item>Lancer un défis.</item>
-        
+
         <item>Commencez par des éloges sincères.</item>
         <item>Faites remarquer erreurs ou défauts de manière indirecte.</item>
         <item>Mentionnez vos erreur avant de corriger celles des autres.</item>
@@ -39,5 +38,6 @@
         <item>Encouragez. Que l\'erreur semble facile à corriger.</item>
         <item>Rendez les autres heureux de faire ce que vous suggérez.</item>
     </string-array>
+    <string name="title_activity_main2">Main2Activity</string>
 
 </resources>
