@@ -2,12 +2,6 @@ apply plugin: 'com.android.application'
 
 android {
     signingConfigs {
-        releasesign {
-            storeFile file('/home/manu/Android/androidKeyStore')
-            keyAlias 'uploadkey'
-            keyPassword 'UserAndroid28'
-            storePassword 'pdHdMEsM'
-        }
     }
     compileSdkVersion 27
     buildToolsVersion '28.0.1'
@@ -18,7 +12,6 @@ android {
         versionCode 3
         versionName '3'
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
-        signingConfig signingConfigs.releasesign
     }
     buildTypes {
         release {
