@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CarneMento</string>
+    <string name="menu_settings">Réglages</string>
+    <string-array name="principes">
+        <item>Ne critiquez pas, ne condamnez pas, ne vous plaignez pas.</item>
+        <item>Complimentez honnêtement et sincèrement.</item>
+        <item>Motivez souvent pour faire ce que vous proposez.</item>
+
+        <item>Intéressez-vous réellement aux autres.</item>
+        <item>Ayez le sourire. :-)</item>
+        <item>Rappelez-vous que le nom d\'une personne revêt pour elle une grande importance.</item>
+        <item>Sachez écouter. Encourager les autres à parler d\'eux mêmes.</item>
+        <item>Parlez à votre interlocuteur de ce qui l\'intéresse.</item>
+        <item>Faites sentir aux autres leur importance et faites-le sincèrement.</item>
+
+        <item>Éviter les controverses, seul moyen d\'en sortir vainqueur.</item>
+        <item>Respecter les opinions de votre interlocuteur. ne lui dites jamais qu\'il a tord.</item>
+        <item>Si vous avez tort, admettez-le promptement et énergiquement.</item>
+        <item>Commencez de façon amicale.</item>
+        <item>Posez des questions qui font dire oui immédiatement.</item>
+        <item>Laissez votre interlocuteur parler tout à son aise.</item>
+        <item>Accordez à votre interlocuteur le plaisir de croire que l\'idée vient de lui.</item>
+        <item>Efforcez-vous sincèrement de voir les choses du point de vue de votre interlocuteur.</item>
+        <item>Accueillez avec sympathie les idée et les désirs des autres.</item>
+        <item>Faites appel aux sentiments élevés.</item>
+        <item>Démontrez spectaculairement vos idée. Frappez la vue et l\'imagination.</item>
+        <item>Lancer un défis.</item>
+
+        <item>Commencez par des éloges sincères.</item>
+        <item>Faites remarquer erreurs ou défauts de manière indirecte.</item>
+        <item>Mentionnez vos erreur avant de corriger celles des autres.</item>
+        <item>Poser des questions plutôt que de donner des ordres directs.</item>
+        <item>Laisser votre interlocuteur sauver la face.</item>
+        <item>Louez le moindre progrès et louez tout progrès. Faites cela chaleureusement et généreusement.</item>
+        <item>Donnez une belle réputation à mériter.</item>
+        <item>Encouragez. Que l\'erreur semble facile à corriger.</item>
+        <item>Rendez les autres heureux de faire ce que vous suggérez.</item>
+    </string-array>
+</resources>
